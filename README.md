@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+It's me
+I like the zombies story by Exbodybuider Jason Blundell
